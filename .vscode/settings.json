@@ -1,0 +1,12 @@
+{
+    // Markdown Lint
+    "markdownlint.config": {
+        "default": false,
+        "MD002": false,
+        "MD022": false,
+        "MD033": false,
+        "MD029": {
+            "style": "ordered"
+        },
+    }
+}
